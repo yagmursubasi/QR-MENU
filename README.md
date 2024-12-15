@@ -10,9 +10,9 @@ This project is an application that makes a restaurant's digital menu accessible
 - **User-Friendly Interface**: The simple and clear design makes it easy for users to select items.
 
 ## Technologies
-- **HTML/CSS/JavaScript: Basic frontend technologies.
-- **JSON: Used for storing and dynamically loading the menu data.
-- **Fetch API: Used to fetch the menu data from the server.
+- HTML/CSS/JavaScript: Basic frontend technologies.
+- JSON: Used for storing and dynamically loading the menu data.
+- Fetch API: Used to fetch the menu data from the server.
 
 ## Demo
 ![Zight Recording 2024-12-15 at 04 04 44 PM](https://github.com/user-attachments/assets/abfedefb-193c-438b-bb13-7291d208a0eb)
